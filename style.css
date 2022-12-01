@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Inter:wght@500&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.container {
+    width: 1728px;
+    height: 837px;
+    background: black;
+}
+
+.appname {
+    position: absolute;
+    width: 692.27px;
+    height: 144px;
+    left: 518px;
+    top: 101px;
+}
+
+.appname h1 {
+    position: absolute;
+    color: white;
+    font-size: 100px;
+    font-family: 'Inter';
+}
+
+#location {
+    position: absolute;
+    background: black;
+    width: 1372px;
+    height: 72px;
+    box-sizing: border-box;
+    left: 146px;
+    top: 409px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 24px;
+
+
+}
+
+::placeholder {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+
+}
+
+#token {
+    position: absolute;
+    background: black;
+    width: 1372px;
+    height: 72px;
+    box-sizing: border-box;
+    left: 146px;
+    top: 302px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.submit {
+    position: absolute;
+    width: 260.75px;
+    height: 58px;
+    left: 146px;
+    top: 549px;
+    background: #FFFFFF;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+
+}
+
+.data {
+    width: 1728px;
+    height: 1497px;
+   
+}
+
+.weather {
+    position: absolute;
+    width: 912px;
+    height: 160px;
+    left: 62px;
+    top: 941px;
+}
+
+.weatherdata {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1585px;
+    height: 1120px;
+    left: 62px;
+    top: 1136px;
+    border: 2px solid #000000;
+}
+
+.weatherdata-1 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 56px;
+}
+
+.weatherdata-2 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 126px;
+}
+
+.weatherdata-3 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 849px;
+    top: 126px;
+}
+
+.weatherdata-4 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 196px;
+}
+
+.weatherdata-5 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 266px;
+}
+
+.weatherdata-6 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 336px;
+}
+
+.weatherdata-7 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 406px;
+}
+
+.weatherdata-8 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 476px;
+}
+
+.weatherdata-9 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 546px;
+}
+
+.weatherdata-10 h1 {
+    
+    position: absolute;
+    width: 669.46px;
+    height: 74px;
+    left: 54px;
+    top: 616px;
+}
